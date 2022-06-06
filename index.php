@@ -1,6 +1,7 @@
 <?php 
     // подключение файлов в нужном порядке 
     // для правильной работы классов
+    // work on index php second
     include('salary.php');
     include('work.php');
     include('workers.php');
